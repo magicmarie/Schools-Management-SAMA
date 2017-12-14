@@ -1,0 +1,1 @@
+# Schools management web application
