@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/magicmarie/Schools-Management-SAMA/issues"
   },
-  "homepage": "https://github.com/magicmarie/Schools-Management-SAMA#readme"
+  "homepage": "https://github.com/magicmarie/Schools-Management-SAMA#readme",
+  "dependencies": {
+    "express": "4.16.2",
+    "jade": "*",
+  },
 }
